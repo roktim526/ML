@@ -1,2 +1,2 @@
 # ML
-all the ML model build 
+This is a ML regressor model to predict band gap of an inorganic material
